@@ -1,0 +1,5 @@
+telethon
+cryptg
+uvloop
+pillow
+qrcode[pil]
